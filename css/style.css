@@ -1,0 +1,81 @@
+/*----------GLOBAL STYLES----------*/
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    letter-spacing: 0.75rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*----------JS ADDED CLASSES----------*/
+.li-container{
+    width: 80vw;
+    box-shadow: 3px 3px 5px  #666;
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 0.75rem;
+    padding: 0.75rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    list-style-type: none;
+}
+.error-border{
+    border: 2px solid red;
+}
+.error{
+    color: red;
+    cursor: pointer;
+}
+
+/*----------MAIN CONTAINER----------*/
+.container{
+    padding: 2rem;
+    
+}
+
+/*----------SECTION FOR THE INPUT FILED AND THE BUTTONS----------*/
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+#input{
+    width: 80vw;
+    box-shadow: 3px 3px 5px  #666;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+}
+.button-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+#btn{
+    padding: 0.5rem;
+    color: white;
+    background: #444;
+    border: none;
+    border-radius: 0.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: all 1s linear;
+}
+#btn:hover{
+    cursor: pointer;
+    color: #666;
+    background: #fff;
+    border: 2px solid #666;
+}
+
