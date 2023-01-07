@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![Web capture_7-1-2023_205136_](https://user-images.githubusercontent.com/84845712/211169868-972651fd-2a4e-45d6-8ef2-321a3b508b02.jpeg)
 
 
 ### What i learned
@@ -39,7 +40,7 @@ I learned how some new methods and nailed down on functions some maore.
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://00awaudby.github.io/to-do-app/)
 
 ## My process
 
