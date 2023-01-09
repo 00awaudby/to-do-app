@@ -34,7 +34,7 @@ Users should be able to:
 
 ### What i learned
 
-I learned how some new methods and nailed down on functions some maore.
+I learned how some new methods work , got more practice in with working with dom  elements
 
 
 ### Links
@@ -48,8 +48,11 @@ I learned how some new methods and nailed down on functions some maore.
 ### Built with
 
 - Semantic HTML5 markup
+  
 - CSS custom properties
+
 - Flexbox
+
 - Javascript
 
 
