@@ -41,7 +41,7 @@ I learned how some new methods and nailed down on functions some maore.
 
 
 - Live Site URL:(https://00awaudby.github.io/to-do-app/)
-- The Github Code:(https://github.com/00awaudby/interactive-component-rating)
+
 
 ## My process
 
@@ -59,6 +59,8 @@ I learned how some new methods and nailed down on functions some maore.
 ## Author
 
 ASHLEY WAUDBY
+- Github - [00awaudby]https://github.com/00awaudby
+- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
 
 
 
