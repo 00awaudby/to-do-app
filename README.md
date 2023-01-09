@@ -40,8 +40,8 @@ I learned how some new methods and nailed down on functions some maore.
 ### Links
 
 
-- Live Site URL: [Live Site](https://00awaudby.github.io/to-do-app/)
-- The Github Code: [The Code](https://github.com/00awaudby/interactive-component-rating)
+- Live Site URL:(https://00awaudby.github.io/to-do-app/)
+- The Github Code:(https://github.com/00awaudby/interactive-component-rating)
 
 ## My process
 
